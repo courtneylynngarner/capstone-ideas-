@@ -2,7 +2,7 @@
 
 ## IDEA:
 I would love to take on the challenge of re-creating this beautiful website on both the front and back end. Ilia is a make up website where customers can brouse and purchase products, and even send in photos and a message for a personalized color match. Here is a link for reference. While this will be a project that I continue to add to, to stick to the three week time frame I plan on scaling down to include a couple less pages than the ones featured in full. Here's a link for reference!
-[Ilia Website](https://iliabeauty.com/)
+[Ilia Beauty](https://iliabeauty.com/)
 
 ### FEATURES:
  - Allow users to create an account and log in 
